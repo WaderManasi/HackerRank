@@ -1,0 +1,11 @@
+////////////////////////////////C++ solution/////////////////////////////////////
+
+/////////////////////////////////function to return middle element of vector////
+int findMedian(vector<int> arr) {
+    sort(arr.begin(),arr.end());
+    float mid;
+    mid=arr.size()/2;
+    int mid_ele=ceil(mid);
+    return arr[mid_ele];
+}
+/////////////////////////end of function//////////////////////////////////////
