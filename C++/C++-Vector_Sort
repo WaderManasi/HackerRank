@@ -1,0 +1,27 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main() {
+
+    //creating empty vector
+    vector<int>arr;
+    int no,tot;
+    cin>>tot;
+    for(int i=0;i<tot;i++)
+    {
+        cin>>no;
+        arr.push_back(no);
+    }  
+    
+    //sort function to sort the given vector
+    sort(arr.begin(),arr.end());
+
+    //displaying vector elemnets(sorted)
+    for(int i=0;i<tot;i++)
+        cout<<arr[i]<<" ";
+    return 0;
+}
