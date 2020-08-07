@@ -1,0 +1,15 @@
+//Loops
+
+function vowelsAndConsonants(s) {
+    let vowels = ['a', 'e', 'i', 'o', 'u'];
+    let consonants = [];
+
+    for (let i = 0; i < s.length; i++) {
+        if (vowels.includes(s.charAt(i))) {
+            console.log(s.charAt(i));
+        } else {
+            consonants.push(s.charAt(i));
+        }
+    }
+    consonants.forEach(val => console.log(val));
+}
