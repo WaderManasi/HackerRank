@@ -11,4 +11,6 @@
 - [C++]()
 - [Java]()
 - [Python]()
-- []
+- [Javascript]()
+- [Regex]()
+- [Ruby]()
