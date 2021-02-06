@@ -2,4 +2,4 @@
 
 > This is repository created for maintaining all the solutions  to the problems statements provided on HackerRank Coding Platform
 
-## You can check the solutions below according to type of problems
+## You can check the :boom: solutions :boom: below according to type of problems 
