@@ -12,5 +12,5 @@
 - :white_check_mark:[Java](https://github.com/WaderManasi/HackerRank/tree/master/Java)
 - :white_check_mark: [Python](https://github.com/WaderManasi/HackerRank/tree/master/Python)
 - :white_check_mark: [Javascript](https://github.com/WaderManasi/HackerRank/tree/master/Javascript)
-- :white_check_mark: [Regex]()
-- :white_check_mark: [Ruby]()
+- :white_check_mark: [Regex](https://github.com/WaderManasi/HackerRank/tree/master/Regex)
+- :white_check_mark: [Ruby](https://github.com/WaderManasi/HackerRank/tree/master/Ruby)
