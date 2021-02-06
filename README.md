@@ -1,2 +1,1 @@
-# HackerRank Problems Solution
-Solutions  to problems statements of coding platform: HackerRank
+# HackerRank <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="40" width="50" />
