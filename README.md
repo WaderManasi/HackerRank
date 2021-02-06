@@ -2,4 +2,4 @@
 
 > This is repository created for maintaining all the solutions  to the problems statements provided on HackerRank Coding Platform
 
-### :green_heart: You can check the :boom: solutions :boom: below according to type of problems 
+### :green_heart: You can check the solutions below according to type of problems :
