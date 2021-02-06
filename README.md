@@ -5,9 +5,9 @@
 
 ### :green_heart: You can check the solutions below:
 
-- [30 Days of Code]()
-- [Interview Preparation Kit]()
-- [Problem Solving]()
+- :white_check_mark: [30 Days of Code]()
+- :white_check_mark: [Interview Preparation Kit]()
+- :white_check_mark: [Problem Solving]()
 - [C++]()
 - [Java]()
 - [Python]()
