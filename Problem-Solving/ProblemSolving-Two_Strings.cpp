@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 // Complete the twoStrings function below.
 string twoStrings(string s1, string s2) {
     int v1[26]={0},v2[26]={0};
