@@ -1,12 +1,8 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 
 vector<string> split_string(string);
 
-/*
- * Complete the getMoneySpent function below.
- */
 int getMoneySpent(vector<int> keyboards, vector<int> drives, int b) {
     int max = 0,bud = 0;
     int flag = 0;
