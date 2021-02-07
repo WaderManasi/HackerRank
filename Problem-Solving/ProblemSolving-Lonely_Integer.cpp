@@ -32,11 +32,8 @@ int main()
     }
 
     int result = lonelyinteger(a);
-
     fout << result << "\n";
-
     fout.close();
-
     return 0;
 }
 
