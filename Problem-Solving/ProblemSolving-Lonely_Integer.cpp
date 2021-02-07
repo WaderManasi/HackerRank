@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 vector<string> split_string(string);
 // Complete the lonelyinteger function below.
 int lonelyinteger(vector<int> a) {
@@ -11,7 +10,6 @@ int lonelyinteger(vector<int> a) {
     }
     return -1;
 }
-
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
