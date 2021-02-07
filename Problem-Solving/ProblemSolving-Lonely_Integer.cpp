@@ -13,21 +13,15 @@ int lonelyinteger(vector<int> a) {
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
-
     int n;
     cin >> n;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
     string a_temp_temp;
     getline(cin, a_temp_temp);
-
     vector<string> a_temp = split_string(a_temp_temp);
-
     vector<int> a(n);
-
     for (int i = 0; i < n; i++) {
         int a_item = stoi(a_temp[i]);
-
         a[i] = a_item;
     }
 
