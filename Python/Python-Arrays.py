@@ -1,5 +1,6 @@
-import numpy
+#
 
+import numpy
 def arrays(arr):
     a = numpy.array(arr)
     b = a[::-1]
