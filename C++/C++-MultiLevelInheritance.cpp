@@ -1,6 +1,7 @@
 //User function Template for C++
 
 //MultiLevel Inheritance in CPP
+//SOlution:
 class test: public student 
 {
     public:
