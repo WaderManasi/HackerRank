@@ -1,3 +1,5 @@
+#solution:
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 a=int(input())
 a1=set(map(int,input().split()))
