@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# solution
 a=int(input())
 s1=set(map(int,input().split()))
 b=int(input())
